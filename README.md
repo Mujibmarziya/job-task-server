@@ -1,1 +1,2 @@
  - Project set up: First of all i installed cors mongodb express and require them all. Then created an user on mongodb and set the username and passwoerd.
+  - Then i created a database collection.
