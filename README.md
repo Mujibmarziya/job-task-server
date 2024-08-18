@@ -1,1 +1,1 @@
- - Project set up: 
+ - Project set up: First of all i installed cors mongodb express and require them all.
